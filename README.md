@@ -83,7 +83,7 @@ If you find our work useful for your research, please consider citing our paper.
 ```bib
 @inproceedings{li2025fedpsyau,
   title={FED-PsyAU: Privacy-Preserving Micro-Expression Recognition via Psychological AU Coordination and Dynamic Facial Motion Modeling},
-  author={LI, Jingtingand Qian, Yu and Zhao, Lin and Wang, Su-Jing},
+  author={LI, Jingting and Qian, Yu and Zhao, Lin and Wang, Su-Jing},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2025},
   pages={},
   year={2025}
