@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb4753a1-bc79-4e88-a974-42d30f8ac03c" name="默认更改列表" comment="默认更改列表" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25rIySi9bH8P7eTpWGyTJhJzR2q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "D:/联邦微表情项目/FedProx-PyTorch",
+    "nodejs_package_manager_path": "npm",
+    "python.debugger.dataview.coloredbydefault": "false",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\联邦微表情项目\FedProx-PyTorch\utils" />
+      <recent name="D:\联邦微表情项目\FedProx-PyTorch" />
+      <recent name="D:\联邦微表情项目\FedProx-PyTorch\data_coding" />
+      <recent name="D:\联邦微表情项目\FedProx-PyTorch\pre_trained_model\au_model" />
+      <recent name="D:\联邦微表情项目\FedProx-PyTorch\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\联邦微表情项目\FedProx-PyTorch\prox_weight_plot" />
+      <recent name="D:\联邦微表情项目\FedProx-PyTorch\pre_trained_model\au_model" />
+      <recent name="D:\联邦微表情项目\FedProx-PyTorch" />
+      <recent name="D:\联邦微表情项目\FedProx-PyTorch\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.draw_plot">
+    <configuration name="draw_plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FedProx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/draw_plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FedProx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/process_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_casme2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FedProx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_casme2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_casme3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FedProx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_casme3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_samm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FedProx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_samm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.draw_plot" />
+        <item itemvalue="Python.process_data" />
+        <item itemvalue="Python.train_casme2" />
+        <item itemvalue="Python.train_casme3" />
+        <item itemvalue="Python.train_samm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb4753a1-bc79-4e88-a974-42d30f8ac03c" name="默认更改列表" comment="" />
+      <created>1646279032865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646279032865</updated>
+      <workItem from="1646279039513" duration="7736000" />
+      <workItem from="1646312638581" duration="1892000" />
+      <workItem from="1646400687136" duration="1780000" />
+      <workItem from="1646484644349" duration="484000" />
+      <workItem from="1652369848524" duration="674000" />
+      <workItem from="1656429511389" duration="573000" />
+      <workItem from="1727425526612" duration="14469000" />
+      <workItem from="1727530265686" duration="7490000" />
+      <workItem from="1727580108962" duration="5127000" />
+      <workItem from="1727600797174" duration="53000" />
+      <workItem from="1727602545470" duration="3276000" />
+      <workItem from="1727627818888" duration="1147000" />
+      <workItem from="1727753400214" duration="241000" />
+      <workItem from="1728039365339" duration="10207000" />
+      <workItem from="1728100306795" duration="24874000" />
+      <workItem from="1728228293209" duration="323000" />
+      <workItem from="1728288852080" duration="9105000" />
+      <workItem from="1728474075545" duration="20495000" />
+      <workItem from="1728538080713" duration="8926000" />
+      <workItem from="1728613191368" duration="655000" />
+      <workItem from="1728647528603" duration="9582000" />
+      <workItem from="1728700527568" duration="4029000" />
+      <workItem from="1729086506567" duration="6222000" />
+      <workItem from="1729251473677" duration="20858000" />
+      <workItem from="1729352673171" duration="253000" />
+      <workItem from="1729353295929" duration="6000" />
+      <workItem from="1729406465441" duration="13000" />
+      <workItem from="1729431500549" duration="284000" />
+      <workItem from="1729501904831" duration="5928000" />
+      <workItem from="1729521949857" duration="6013000" />
+      <workItem from="1729781904690" duration="21000" />
+      <workItem from="1729781935182" duration="18811000" />
+      <workItem from="1729905069601" duration="16000" />
+      <workItem from="1729905095612" duration="27000" />
+      <workItem from="1729905133494" duration="7527000" />
+      <workItem from="1729922179546" duration="10000" />
+      <workItem from="1730033158896" duration="1371000" />
+      <workItem from="1730084596680" duration="12694000" />
+      <workItem from="1730166991357" duration="229000" />
+      <workItem from="1730169356990" duration="162000" />
+      <workItem from="1730219287538" duration="292000" />
+      <workItem from="1730361973747" duration="8936000" />
+      <workItem from="1730444345047" duration="11513000" />
+      <workItem from="1730519133683" duration="2905000" />
+      <workItem from="1730617212576" duration="1407000" />
+      <workItem from="1730775339051" duration="8709000" />
+      <workItem from="1730874913750" duration="593000" />
+      <workItem from="1730884857448" duration="7024000" />
+      <workItem from="1730902623778" duration="37000" />
+      <workItem from="1730904840039" duration="7318000" />
+      <workItem from="1731170178004" duration="18377000" />
+      <workItem from="1731328660782" duration="2979000" />
+      <workItem from="1731487366876" duration="17000" />
+      <workItem from="1731932063931" duration="863000" />
+      <workItem from="1731933303139" duration="2016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$process_data.coverage" NAME="process_data 覆盖结果" MODIFIED="1731223527606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$train_casme2__1_.coverage" NAME="train_casme2 (1) 覆盖结果" MODIFIED="1728213483576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$train.coverage" NAME="train 覆盖结果" MODIFIED="1728128942719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$dataset.coverage" NAME="dataset 覆盖结果" MODIFIED="1727535321116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$client.coverage" NAME="client 覆盖结果" MODIFIED="1728182259933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$test_ot.coverage" NAME="test_ot 覆盖结果" MODIFIED="1729252613703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$test_ot__1_.coverage" NAME="test_ot (1) 覆盖结果" MODIFIED="1729269902899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$main_ot.coverage" NAME="main_ot 覆盖结果" MODIFIED="1729826580488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedProx$main.coverage" NAME="main Coverage Results" MODIFIED="1656429737166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$ot.coverage" NAME="ot 覆盖结果" MODIFIED="1729264980057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$main.coverage" NAME="main 覆盖结果" MODIFIED="1728539608954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$server.coverage" NAME="server 覆盖结果" MODIFIED="1728040759476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$train_casme2.coverage" NAME="train_casme2 覆盖结果" MODIFIED="1729828889824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$inceptionnet.coverage" NAME="inceptionnet 覆盖结果" MODIFIED="1727437569760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$au_graph_mer.coverage" NAME="au_graph_mer 覆盖结果" MODIFIED="1729269664013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$args.coverage" NAME="args 覆盖结果" MODIFIED="1728538774408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$draw_hyper_parametere.coverage" NAME="draw_hyper_parametere 覆盖结果" MODIFIED="1730779170109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$train_samm.coverage" NAME="train_samm 覆盖结果" MODIFIED="1730904889850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$draw_plot.coverage" NAME="draw_plot 覆盖结果" MODIFIED="1731932881694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/FedProx_PyTorch$train_casme3.coverage" NAME="train_casme3 覆盖结果" MODIFIED="1728478594675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
