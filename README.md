@@ -57,7 +57,7 @@ Pease download the datasets from their official sources. For both datasets, we c
 
 ### Evaluation Metrics
 
-To acount for class imbalance, performance is evaluated using:
+To address the imbalance in ME sample categories, performance is evaluated using:
 
 * Unweighted F1 score (UF1)
 * Unweighted Average Recall (UAR)
